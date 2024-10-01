@@ -12,8 +12,8 @@
 
 | *INTEGRANTES* | *enlace* |
 | --- | --- |
-| hg-alfa | https://github.com/Josblack25/hg_2_alfa.git |
-| hg-bravo | https://github.com/Josblack25/hg-2-bravo.git |
-| hg-charlie | https://github.com/Josblack25/hg_2_charlie.git |
-| hg-delta | https://github.com/Josblack25/hg_2_delta.git |
-| hg-echo | https://github.com/Josblack25/hg_2_echo.git |
+| hg-alfa | https://github.com/VictorRivero1204/hg_2_alfa.git |
+| hg-bravo | https://github.com/VictorRivero1204/hg-2-bravo.git |
+| hg-charlie | https://github.com/VictorRivero1204/hg_2_charlie.git |
+| hg-delta | https://github.com/VictorRivero1204/hg_2_delta.git |
+| hg-echo | https://github.com/VictorRivero1204/hg_2_echo.git |
